@@ -28,4 +28,4 @@ public class Tc1 extends Base_Test_BM_AM
 	 };
 	}
 }
-//new implementation
+//new implementation is succesful
